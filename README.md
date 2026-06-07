@@ -10,11 +10,7 @@ Backend is kept completely unchanged as per assignment requirements.
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 
-## Pages
-| Route | Description |
-|-------|-------------|
-| `/login` | User authentication |
-| `/dashboard` | Compose & send emails, view history |
+
 
 ## Setup & Run
 
